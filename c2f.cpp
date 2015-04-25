@@ -30,7 +30,7 @@ int main(int nNumberofArgs, char* pszArgs[])
 
      // wait until user is ready before terminating program
      // to allow the user to see the program results
-     system("PAUSE");
+     //system("PAUSE");
      return 0;
-     
+
 }
