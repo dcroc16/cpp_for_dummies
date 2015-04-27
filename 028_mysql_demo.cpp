@@ -46,7 +46,7 @@ int main()
 
 	const char *server="localhost";
     const char *user="root";
-    const char *password="netzero1116";
+    const char *password="[the password]";
     const char *database="my_db";
 
     
